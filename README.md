@@ -13,6 +13,6 @@ I'm a Data Scientist with a passion for developing innovative Machine Learning (
 
 
 📫 Let's Connect!
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/waqas-akram-2k004/)
 
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/waqas-akram-2k004/)
 Email: waqasakram2510@gmail.com
