@@ -12,7 +12,6 @@ I'm a Data Scientist with a passion for developing innovative Machine Learning (
 - Platforms: Linux, Cloud Environments (AWS, Google Cloud)
 
 
-📫 Let's Connect!
-
+📫 Let's Connect!/n
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/waqas-akram-2k004/)
 Email: waqasakram2510@gmail.com
