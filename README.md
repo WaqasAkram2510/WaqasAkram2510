@@ -4,7 +4,7 @@
 **AI/ML Engineer @ Techtics.ai** · LLMs, AI Agents & RAG · LangGraph · PyTorch · FastAPI · Computer Vision & Document AI · M.Phil. Data Science
 
 
-I build AI systems that go into production - not demos.
+I build AI systems that go into production.
 
 
 Currently at **Techtics.ai**, working across applied AI: multi-agent orchestration with LangGraph, retrieval-augmented generation, computer vision and document AI, and the FastAPI/PostgreSQL/AWS infrastructure behind it.
