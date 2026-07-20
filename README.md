@@ -29,15 +29,6 @@ Currently at **Techtics.ai**, working across applied AI: multi-agent orchestrati
 
 
 
-## Certifications
-
-
-- Fine-tuning Large Language Models - DeepLearning.AI
-- ChatGPT Prompt Engineering for Developers - DeepLearning.AI
-- Building Agentic RAG with LlamaIndex - DeepLearning.AI
-- AWS Academy Cloud Foundations & Machine Learning Foundations - AWS Academy
-
-
 ## Let's connect
 
 
